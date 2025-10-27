@@ -17,7 +17,6 @@ It integrates:
 * **Google Maps API** – for live location tracking
 * **SMS Manager / Twilio API** – for sending emergency SMS
 * **Android Services** – for background recording
-
 ---
 
 ## 🩻 System Modules
